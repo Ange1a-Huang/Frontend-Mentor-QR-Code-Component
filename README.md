@@ -22,7 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Mobile webpage: Portrait](screenshots/375x812.png)
-![Mobile webpage: Landscape](screenshots/812x375.png)
 
 ### Links
 
